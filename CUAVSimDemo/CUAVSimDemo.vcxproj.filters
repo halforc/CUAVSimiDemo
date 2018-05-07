@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CUAVSimDemo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CUAVSimDemoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PathSimiDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageStatic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UDPSetting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDataInput.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CUAVSimDemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CUAVSimDemoDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PathSimiDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageStatic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UDPSetting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDataInput.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CUAVSimDemo.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CUAVSimDemo.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CUAVSimDemo.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\Yang\Pictures\Camera Roll\ooopic_1525494515.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\Yang\Pictures\Camera Roll\ooopic_1525494539.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\Yang\Pictures\Camera Roll\ooopic_1525494576.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="c:\users\yang\pictures\camera roll\icon4.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="c:\users\yang\pictures\camera roll\icon5.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="c:\users\yang\pictures\camera roll\icon6.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\path.PNG">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="c:\users\yang\pictures\camera roll\toolbar1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\first_track_orange24.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\last_track_orange24.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\play_orange24.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
